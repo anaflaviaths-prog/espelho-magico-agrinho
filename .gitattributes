@@ -1,0 +1,17 @@
+# .gitattributes - Espéculo Mágico Agrinho
+
+# Arquivos de imagem
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+# Áudio
+*.wav binary
+*.mp3 binary
+*.ogg binary
+
+# Fontes
+*.ttf binary
+*.otf binary
