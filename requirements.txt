@@ -1,0 +1,8 @@
+opencv-python==4.8.1.78
+mediapipe==0.10.9
+Pillow==10.1.0
+customtkinter==5.2.2
+pygame==2.5.2
+numpy==1.24.3
+pyinstaller==6.1.0
+darkdetect==0.8.0
